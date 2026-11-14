@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "company": "OpenAI",
+    "title": "Forward Deployed Engineer - Applied AI",
+    "department": "Applied Engineering",
+    "location": "San Francisco, CA / New York, NY (Hybrid)",
+    "remote_friendly": false,
+    "comp_range": "$240,000 - $370,000 + Equity",
+    "category": "Frontier AI & LLMs",
+    "tech_stack": [
+      "Python",
+      "PyTorch",
+      "Kubernetes",
+      "OpenAI API",
+      "Agentic Frameworks"
+    ],
+    "summary": "Partner with strategic enterprise customers to bridge the gap between frontier models (GPT-4o, o-series) and production agentic pipelines.",
+    "url": "https://openai.com/careers",
+    "posted_period": "Active This Month"
+  },
+  {
+    "id": 2,
+    "company": "Anthropic",
+    "title": "Forward Deployed Engineer - Enterprise Deployment",
+    "department": "Applied AI / GTM",
+    "location": "San Francisco, CA / New York, NY / London (Hybrid)",
+    "remote_friendly": false,
+    "comp_range": "$220,000 - $340,000 + Equity",
+    "category": "Frontier AI & Safety",
+    "tech_stack": [
+      "Python",
+      "Claude API",
+      "Prompt Engineering",
+      "Evaluation Frameworks",
+      "AWS/GCP"
+    ],
+    "summary": "Deploy Claude directly inside customer infrastructure. Build production evaluations, custom retrieval architectures, and enterprise guardrails.",
+    "url": "https://anthropic.com/careers",
+    "posted_period": "Active This Month"
+  },
+  {
+    "id": 3,
+    "company": "Palantir Technologies",
+    "title": "Forward Deployed Software Engineer (FDSE) - Commercial & AIP",
+    "department": "Forward Deployed Engineering",
+    "location": "New York, NY / Palo Alto, CA / Washington, D.C. / London",
+    "remote_friendly": false,
+    "comp_range": "$150,000 - $210,000 + Stock ($250k - $380k TC)",
+    "category": "Enterprise Ontology & AI",
+    "tech_stack": [
+      "Java",
+      "TypeScript",
+      "Python",
+      "Palantir Foundry / AIP",
+      "Distributed Systems"
+    ],
+    "summary": "The originators of the FDE discipline ('Deltas'). Embed within Fortune 500 leadership to build high-impact production software on Foundry & AIP.",
+    "url": "https://www.palantir.com/careers",
+    "posted_period": "Active This Month"
+  },
+  {
+    "id": 4,
+    "company": "Scale AI",
+    "title": "Forward Deployed Software Engineer - GenAI Platform",
+    "department": "Federal & Enterprise Engineering",
+    "location": "San Francisco, CA / New York, NY / Remote (US)",
+    "remote_friendly": true,
+    "comp_range": "$170,000 - $240,000 + Equity ($280k - $420k TC)",
+    "category": "LLM Infrastructure & Data",
+    "tech_stack": [
+      "Python",
+      "RLHF Pipelines",
+      "Vector DBs",
+      "Docker",
+      "FastAPI"
+    ],
+    "summary": "Build tailored model fine-tuning, synthetic data generation, and evaluation suites directly for premier enterprise and federal clients.",
+    "url": "https://scale.com/careers",
+    "posted_period": "Active This Month"
+  },
+  {
+    "id": 5,
+    "company": "Databricks",
+    "title": "Forward Deployed Software Engineer - Mosaic AI & Lakehouse",
+    "department": "Field Engineering / GenAI",
+    "location": "San Francisco, CA / Mountain View, CA / Seattle, WA",
+    "remote_friendly": false,
+    "comp_range": "$180,000 - $250,000 + Equity ($300k - $450k TC)",
+    "category": "Data & AI Infrastructure",
+    "tech_stack": [
+      "Python",
+      "Apache Spark",
+      "Mosaic AI",
+      "Vector Search",
+      "Delta Lake"
+    ],
+    "summary": "Work side-by-side with data engineering leaders to build and scale compound AI systems and lakehouse-native vector search on Databricks.",
+    "url": "https://www.databricks.com/company/careers",
+    "posted_period": "Active This Month"
+  },
+  {
+    "id": 6,
+    "company": "Vercel",
+    "title": "Forward Deployed Engineer - Enterprise Architecture",
+    "department": "Solutions & Enterprise Engineering",
+    "location": "Remote (US / EMEA)",
+    "remote_friendly": true,
+    "comp_range": "$165,000 - $225,000 + Equity",
+    "category": "Frontend & Edge AI",
+    "tech_stack": [
+      "TypeScript",
+      "Next.js",
+      "React",
+      "AI SDK",
+      "Edge Compute"
+    ],
+    "summary": "Lead enterprise engineering transformations, architecting high-scale Next.js infrastructure and streaming AI SDK implementations for tier-1 brands.",
+    "url": "https://vercel.com/careers",
+    "posted_period": "Active This Month"
+  },
+  {
+    "id": 7,
+    "company": "MongoDB",
+    "title": "Forward Deployed Architect / Engineer - Atlas Vector Search",
+    "department": "Solutions Architecture",
+    "location": "New York, NY / Austin, TX / Remote",
+    "remote_friendly": true,
+    "comp_range": "$160,000 - $220,000 + Bonus + Equity",
+    "category": "Distributed Databases & RAG",
+    "tech_stack": [
+      "Python",
+      "Go / Java",
+      "Atlas Vector Search",
+      "RAG Architectures",
+      "AWS"
+    ],
+    "summary": "Engineer low-latency vector retrieval and hybrid search pipelines directly into enterprise client production stacks.",
+    "url": "https://www.mongodb.com/careers",
+    "posted_period": "Active This Month"
+  },
+  {
+    "id": 8,
+    "company": "Hightouch",
+    "title": "Forward Deployed Engineer - Data Activation",
+    "department": "Customer Engineering",
+    "location": "San Francisco, CA / New York, NY / Remote",
+    "remote_friendly": true,
+    "comp_range": "$155,000 - $210,000 + Equity",
+    "category": "Data Activation & Reverse ETL",
+    "tech_stack": [
+      "SQL",
+      "Python",
+      "Snowflake",
+      "BigQuery",
+      "dbt",
+      "FastAPI"
+    ],
+    "summary": "Bridge data engineering and GTM teams by wiring modern data warehouses into real-time operational decisioning engines.",
+    "url": "https://hightouch.com/careers",
+    "posted_period": "Active This Month"
+  },
+  {
+    "id": 9,
+    "company": "bp (British Petroleum)",
+    "title": "Forward Deployed Engineer - AI & Quantitative Trading",
+    "department": "Trading & Shipping Tech",
+    "location": "Chicago, IL / Houston, TX / London, UK",
+    "remote_friendly": false,
+    "comp_range": "$160,000 - $230,000 + Target Bonus",
+    "category": "Energy & Algorithmic Trading",
+    "tech_stack": [
+      "Python",
+      "C++",
+      "TimescaleDB / kdb+",
+      "Cloud HPC",
+      "Quantitative Models"
+    ],
+    "summary": "Embed on the commercial trade floor to build algorithmic trade execution tools, market prediction models, and live analytical systems.",
+    "url": "https://www.bp.com/careers",
+    "posted_period": "Active This Month"
+  },
+  {
+    "id": 10,
+    "company": "Tesla",
+    "title": "Forward Deployed Software Engineer - Factory Automation",
+    "department": "Manufacturing Systems",
+    "location": "Austin, TX / Fremont, CA",
+    "remote_friendly": false,
+    "comp_range": "$140,000 - $210,000 + Equity",
+    "category": "Robotics & Manufacturing",
+    "tech_stack": [
+      "Python",
+      "C++",
+      "Computer Vision",
+      "Telemetry",
+      "Industrial IoT"
+    ],
+    "summary": "Deploy on the gigafactory floor to diagnose bottlenecks, deploy computer vision inspection, and optimize real-time telemetry.",
+    "url": "https://www.tesla.com/careers",
+    "posted_period": "Active This Month"
+  }
+]
